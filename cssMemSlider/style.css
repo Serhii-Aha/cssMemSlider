@@ -103,7 +103,7 @@ display: block;
 /*  */
 #active label:active {
     
-    background: #2b2b2b;
+    background: red;
     border: 2px solid #76c8ff;
     border-radius: 25px;
     
